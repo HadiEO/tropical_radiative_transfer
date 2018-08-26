@@ -1,0 +1,14 @@
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+data/
+cache/
+diagnostics/
+doc/
+graphs/
+logs/
+profiling/
+reports/
+results/
+src/

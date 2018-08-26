@@ -1,0 +1,1 @@
+Need to check Landsat 7 response. Landsat 8 response used in hsdar differ from spreadsheet provided by NASA.
